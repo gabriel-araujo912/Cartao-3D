@@ -1,0 +1,12 @@
+@media (max-width: 1080px) {
+
+.box_content {
+  width: 600px;
+  height: 600px;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+}
